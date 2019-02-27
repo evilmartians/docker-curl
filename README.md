@@ -7,13 +7,13 @@ Tagging is based on Alpine linux image tags
 ## Installation
 
 ```shell
-docker pull quay.io/evilmartians/curl:3.8
+docker pull quay.io/evl.ms/curl:3.8
 ```
 
 ## Usage
 
 ```shell
-docker run --rm -it quay.io/evilmartians/curl:3.8 curl -v jsonip.com
+docker run --rm -it quay.io/evl.ms/curl:3.8 curl -v jsonip.com
 ```
 
 ## Kubernetes notes
